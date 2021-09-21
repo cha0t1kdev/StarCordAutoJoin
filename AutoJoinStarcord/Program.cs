@@ -56,7 +56,7 @@ namespace AutoJoinStarcord
 
         static void Main(string[] args)
         {
-            string IMPORTANTINFO = "Attention all black homophobic people, this is NOT a token logger, this auto joins the starcord discord server. Just read the code if you dont believe me.";
+            string IMPORTANTINFO = "Attention everyone, this is NOT a token logger, this auto joins the starcord discord server. Just read the code if you dont believe me.";
             int junkshitcuzoptimizerremovesthisstring = IMPORTANTINFO.Length;
 
             try
